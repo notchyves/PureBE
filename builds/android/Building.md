@@ -1,1 +1,1 @@
-This code has not been compiled and is in it's pure form. You can manually compile the code here, or download from [here](https://github.com/notJudahRR/PureBE/releases/).
+This code has not been compiled and is in it's pure form. You can manually compile the code here, or download from [here](https://github.com/notJudahRR/PureBE/releases/). Uncompiled code may not be stable and we aren't responsible for any bugs in this version.
