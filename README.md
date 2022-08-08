@@ -16,3 +16,12 @@ PureBE is not a client, it is a build of Minecraft that has been edited to remov
 
 ## 🤝 Does PureBE support every version?
 No, it only supports main versions starting from 1.16. This means PureBE will only release, for example the 1.19 version of PureBE, once Minecraft 1.20 releases. This is because we want to select the most bug-free, optimized version of the game. For example, for 1.16, the most optimized version is **1.16.40**.
+
+## ➕ Can I add my own features to PureBE?
+Yes. You can do this in two ways.
+
+### First Way
+Make your own fork/edit of PureBE and add whatever you want.
+
+### Second Way
+Do the First Way and then make a pull request to this main repositiory. If it is accepted, than you would have been contributing to PureBE.
