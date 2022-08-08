@@ -1,5 +1,1 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://user-images.githubusercontent.com/82107846/183327473-eb049409-c9b8-4f54-8dbc-f62efbc98656.png" width="512" height="256" align="center">
-</div>
-
-versions of Minecraft Bedrock Edition that removes unnecessary things and adds more useful things to the game. 
+![PureBE Logo](https://user-images.githubusercontent.com/82107846/183328679-0435d994-94f9-4ae9-8d5a-d8db85deec6a.png)
