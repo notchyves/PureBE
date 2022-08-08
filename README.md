@@ -21,7 +21,7 @@ No, it only supports main versions starting from 1.16. This means PureBE will on
 Yes. You can do this in two ways.
 
 ### First Way
-Make your own fork/edit of PureBE and add whatever you want.
+- Make your own fork/edit of PureBE and add whatever you want.
 
 ### Second Way
-Do the First Way and then make a pull request to this main repositiory. If it is accepted, than you would have been contributing to PureBE.
+- Do the First Way and then make a pull request to this main repositiory. If it is accepted, than you would have been contributing to PureBE.
