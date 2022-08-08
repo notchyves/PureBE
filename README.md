@@ -13,3 +13,6 @@ Sadly, PureBE does not work on any other devices other than Android and Windows 
 
 ## 🤔 Is PureBE a client?
 PureBE is not a client, it is a build of Minecraft that has been edited to remove unwanted things and add things that enhance gameplay. We do not consider ourselves any sort of client nor do not claim to support any client. We do not have any intention in building a client in the future.
+
+## 🤝 Does PureBE support every version?
+No, it only supports main versions starting from 1.16. This means PureBE will only release, for example the 1.19 version of PureBE, once Minecraft 1.20 releases. This is because we want to select the most bug-free, optimized version of the game. For example, for 1.16, the most optimized version is **1.16.40**.
